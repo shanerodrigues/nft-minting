@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+# NFT Minting on Rinkeby Test Network
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Generates a NFT collection, using a smart contract in Solidity. Deploys on testnets.opensea.io.
 
-Try running some of the following tasks:
+NFT generated is a combination of 3 random words with a black background.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Demo NFT - [DoctorateDunePoodle](https://testnets.opensea.io/assets/0xbeedce3bf3b036189f7c23dbf30ae3a27e51f309/0) 
